@@ -1,0 +1,11 @@
+<config>
+<jServer><![CDATA[test.com]]></jServer>
+<jid><![CDATA[client]]></jid>
+<jSecret><![CDATA[files]]></jSecret>
+<jResource><![CDATA[spark]]></jResource>
+<localPortList><![CDATA[11000,11001]]></localPortList>
+<sensorRecordRateInMS><![CDATA[250]]></sensorRecordRateInMS>
+<challengeTimeAllowedInMS><![CDATA[2000]]></challengeTimeAllowedInMS>
+<challengeSensorTollerance><![CDATA[400]]></challengeSensorTollerance>
+<recordDeviceIndex><![CDATA[2]]></recordDeviceIndex>
+</config>
